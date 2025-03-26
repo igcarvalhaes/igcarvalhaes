@@ -7,6 +7,7 @@ Meu nome é Igor Carvalhaes, sou estudante de Engenharia de Computação e estou
 - HTML
 - CSS
 - JavaScript
+- ReactJS
 
 ## Vamos nos conectar?
 
